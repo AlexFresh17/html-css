@@ -1,0 +1,23 @@
+h1 {
+    color: black;
+}
+
+p {
+    color: grey;
+    font-size: 30px;
+text-align: left;
+text-indent: 1em; /* 1умножить на front-size*/
+border: 5px solid red;
+}
+a {
+    /*text-decoration: overline underline line-through;
+    text-decoration-style: dotted;
+    text-decoration-color:blueviolet;
+    text-decoration-thickness: 3px;*/
+text-decoration: overline;
+}
+
+
+button {
+    text-transform: uppercase;
+}
